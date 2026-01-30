@@ -6,7 +6,7 @@
     <title>Muhamad IT | Personal Website</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <style>
+    <style>ChatGPT Image 30 يناير 2026، 06_06_45 م.png
         body {
             margin: 0;
             font-family: "Segoe UI", sans-serif;
