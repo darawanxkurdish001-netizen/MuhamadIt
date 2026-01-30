@@ -6,7 +6,7 @@
     <title>Muhamad IT | Personal Website</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <style>ChatGPT Image 30 يناير 2026، 06_06_45 م.png
+    <style>Photo199.png
         body {
             margin: 0;
             font-family: "Segoe UI", sans-serif;
@@ -107,7 +107,7 @@
 <div class="container">
 
     <header>
-        <img src="profile.png" alt="Muhamad IT" class="profile-img">
+        <img src="Photo199.png" alt="Muhamad IT" class="profile-img">
 
         <h1>Muhamad IT</h1>
         <p>خلاس بووی بەشی مەحەدی کۆمپیوتەر</p>
